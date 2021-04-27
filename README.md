@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dengjiawen8955&show_icons=true">](https://bmft.tech)
 I'm Jarvan,Sophomore at Chongqing University of Posts and Telecommunications.
 
