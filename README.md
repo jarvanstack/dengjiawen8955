@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dengjiawen8955&show_icons=true">](https://bmft.tech)
 I'm Jarvan,Sophomore at Chongqing University of Posts and Telecommunications.
 
-* ⚒️ Main:**Java/Golang**
+* ⚒️ Main:**Goland/Java/C/C++**
 * 📦 Sub:HTML/CSS/JS/Vue/Uniapp
 * 🌱 Idea:Program changes the world
 * 👯 Looking to collaborate on a Androider
