@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dengjiawen8955&show_icons=true">](https://bmft.tech)
-I'm Jarvan,Sophomore at Chongqing University of Posts and Telecommunications.
+I'm Jarvan
 
 * ⚒️ Main:**Goland/Java/C/C++**
 * 📦 Sub:HTML/CSS/JS/Vue/Uniapp
